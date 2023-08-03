@@ -1,0 +1,39 @@
+{
+  "product": [
+    {
+      "image": "https://platinumlist.net/guide/wp-content/uploads/2023/03/IMG-worlds-of-adventure.webp",
+      "name": "shirt",
+      "price": "2500",
+      "brand": "addida",
+      "id": 1
+    },
+    {
+      "image": "https://platinumlist.net/guide/wp-content/uploads/2023/03/IMG-worlds-of-adventure.webp",
+      "name": "shirt",
+      "price": "25000",
+      "brand": "addidas",
+      "id": 2
+    },
+    {
+      "image": "",
+      "name": "",
+      "price": "",
+      "brand": "",
+      "id": 3
+    },
+    {
+      "image": "",
+      "name": "",
+      "price": "",
+      "brand": "",
+      "id": 4
+    },
+    {
+      "image": "",
+      "name": "",
+      "price": "",
+      "brand": "",
+      "id": 5
+    }
+  ]
+}
